@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### <div align="center">👨‍ I'm Oluwaseun, an aspiring Data Scientist 👨💻<br>🌱 I’m currently learning DataScience using Python 🌱</div>  
+### <div align="center">Hello there 👋 <br> 👨‍ I'm Oluwaseun, an aspiring Data Scientist 👨💻<br>🌱 I’m currently learning DataScience using Python 🌱</div>  
 
   
 <br/>  
@@ -59,7 +57,9 @@
 
 <br/>
 
-#### ⚡ Fun fact: I play the drums 🥁  
+<div align="center">
+⚡ Fun fact: I play the drums 🥁  
+</div>
 <br/>
 
 ----
