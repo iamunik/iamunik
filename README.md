@@ -63,4 +63,4 @@
 <br/>
 
 ----
-<div align="center">Link to my <a href="https://oluwaseun-ogundeko.netlify.app/" target="_blank">porfolio website</a></div>
+<div align="center">Link to my <a href="https://oluwaseun-ogundeko.netlify.app/" target="_blank">portfolio website</a></div>
