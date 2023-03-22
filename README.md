@@ -1,4 +1,4 @@
-### <div align="center">Hello there 👋 <br><br> 👨‍ I'm Oluwaseun, an aspiring Data Scientist 👨💻<br>🌱 I’m currently learning Data science using Python 🌱</div>  
+### <div align="center">Hello there 👋 <br><br> 👨My name is Oluwaseun and I am an aspiring Data Scientist👨<br>🐍I’m currently learning Data science using Python🐍<br> 💻I am open to collaborations and to learning💻 </div>  
 
   
 <br/>  
