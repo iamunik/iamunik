@@ -47,9 +47,8 @@
 ## :fire: My Github Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamunik&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamunik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/> 
-<img src="https://github-readme-stats.vercel.app/api?username=iamunik&show_icons=true&count_private=true&theme=great-gatsby" /> 
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamunik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/> 
+<img src="https://github-readme-stats.vercel.app/api?username=iamunik&show_icons=true&count_private=true&theme=great-gatsby" />
 <br/>  
 
 <div align="center">
