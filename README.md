@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>  
   
-### <div align="center">I am Oluwaseun an aspiring Data Scientist 👨</div>  
+### <div align="center">I am Oluwaseun a data scientist and data analyst 👨</div>  
 - 🐍I’m currently learning Data science using Python🐍  
 - 💻I am open to collaborations and to learning💻  
 - ⚡ Fun fact: I play the drums  
