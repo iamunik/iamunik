@@ -3,9 +3,10 @@
 </div>  
   
 ### <div align="center">I am Oluwaseun a data scientist and data analyst 👨</div>  
-- 🐍I’m currently learning Data science using Python🐍  
-- 💻I am open to collaborations and to learning💻  
-- ⚡ Fun fact: I play the drums  
+- 🐍 I am currently learning Data science using Python 🐍
+- 📊 I am also learning data analysis with Python and PowerBi 📊
+- 💻 I am open to collaborations and to learning 💻  
+- ⚡ Fun fact: I play the drums 🥁
 <br/> 
 
 ## :hammer_and_wrench: Languages and Tools :    
