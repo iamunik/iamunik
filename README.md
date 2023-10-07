@@ -55,9 +55,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=iamunik&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-----
-<div align="center">Link to my <a href="https://oluwaseun-ogundeko.netlify.app/" target="_blank">portfolio website</a></div>
+<hr>
