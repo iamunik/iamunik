@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
-</div>  
+
   
 ### <div align="center">I am Oluwaseun a data scientist and data analyst 👨</div>  
 - 🐍 I am currently learning Data science using Python 🐍
