@@ -24,6 +24,7 @@
 
 <br/>  
 
+<!--
 ## 🌐 Connect with me   
 <div align="center">
 <a href="https://twitter.com/iamzadon" target="_blank">
@@ -35,12 +36,8 @@
 <a href="https://www.kaggle.com/oluwaseunogundeko" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-</div>  
-<!-- <br>
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=iamunik&hide=jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193) -->
-
+</div>  --> 
 <br/> 
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=iamunik&&style=flat-square" align="center" />
 </div>  
