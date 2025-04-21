@@ -1,9 +1,8 @@
 
-  
-### <div align="center">I am Oluwaseun a data scientist and data analyst 👨</div>  
-- 🐍 I am currently learning Data science using Python 🐍
-- 📊 I am also learning data analysis with Python and PowerBi 📊
-- 💻 I am open to collaborations and to learning 💻  
+### <div align="center">From numbers to narratives — I'm Oluwaseun, a data scientist who connects the dots.</div>  <br>
+- 🐍 Data science specialist 🐍
+- 📊 Passionate about transforming raw data into actionable insights 📊
+- 💻 Actively seeking opportunities to support forward-thinking organizations. 💻  
 - ⚡ Fun fact: I play the drums 🥁
 <br/> 
 
@@ -24,19 +23,19 @@
 
 <br/>  
 
-<!--
+
 ## 🌐 Connect with me   
 <div align="center">
 <a href="https://twitter.com/iamzadon" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/oluwaseun-ogundeko-54551b234/" target="_blank">
+<a href="https://www.linkedin.com/in/ogundeko/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/oluwaseunogundeko" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
-</div>  --> 
+</div>  
 <br/> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=iamunik&&style=flat-square" align="center" />
